@@ -9,3 +9,4 @@ __pycache__/
 /sha256sum.txt
 /TODO
 /.vscode/
+.DS_Store
